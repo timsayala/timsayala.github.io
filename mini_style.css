@@ -1,0 +1,123 @@
+.navbar-nav{
+  flex-direction:row ;
+  --bs-nav-link-padding-x: 1rem;
+  
+  
+}
+
+.brand{
+
+  position: relative;
+  width: 140px;
+  height: 50px;
+  
+}
+
+nav{
+  background-color:#5E503F;
+  
+}
+
+.nav-link{
+  color: #EAE0D5;
+  font-size: 14px;
+  font-style: oblique;
+}
+
+.nav-link:hover{
+  color:#C6AC8F ;
+}
+
+.navbar{
+
+  padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
+  padding-top: 0.005px;
+  padding-right:0 ;
+  padding-bottom:0.005px;
+  padding-left:0;
+}
+
+
+.navbar-brand{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+h1,.h1{
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #665742a6;
+  margin-left: 30px;
+  letter-spacing: .5rem;
+  text-shadow: 2px 2px 4px #2e2929;
+  
+
+  
+}
+
+
+.col-6{
+  padding-top: 40px;
+  color:#4e4336;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+
+}
+
+.banner{
+
+position: relative;
+background-image: url(img/guitar.jpg);
+height: 600px;
+}
+
+div.container-fluid{
+  padding: 0;
+}
+
+div.carousel-item{
+  height: 500px;
+}
+
+.wrapper{
+  
+  text-align: center;
+ 
+} 
+
+.testimonials{
+  
+  background-color: #C6AC8F;
+  height: 300px;
+}
+div.container{
+  padding-top: 40px;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+.col-3{
+  position: relative;
+  top:-150px;
+}
+
+.card-img-top{
+height: 200px;
+
+
+}
+
+div.card{
+  border: #5E503F 5px solid;
+  height: 500px;
+  text-align: center;
+}
+
+
+.card-course{
+  border: 1px rgb(143, 141, 141) solid;
+
+  
+}
+
