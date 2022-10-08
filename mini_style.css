@@ -14,7 +14,7 @@
 }
 
 nav{
-  background-color:#5E503F;
+  background-color:#3a617e;
   
 }
 
@@ -47,10 +47,11 @@ h1,.h1{
   padding-top: 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
-  color: #665742a6;
+  color:#e7f1ff;
   margin-left: 30px;
   letter-spacing: .5rem;
-  text-shadow: 2px 2px 4px #2e2929;
+  text-shadow: #3a617e 1px 1px;
+  
   
 
   
@@ -80,21 +81,22 @@ div.carousel-item{
   height: 500px;
 }
 
-.wrapper{
+.wrapper1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           {
   
   text-align: center;
  
 } 
-
+/* 
 .testimonials{
   
   background-color: #C6AC8F;
   height: 300px;
-}
+} */
 div.container{
   padding-top: 40px;
   padding-left: 0%;
   padding-right: 0%;
+  height: 200px;
 }
 
 .col-3{
@@ -120,4 +122,67 @@ div.card{
 
   
 }
+.abt{
+  position: relative;
+  bottom:340px
 
+  
+  }
+h3{
+  letter-spacing: .5rem;
+}
+.logo{
+  padding-top: 30px;
+  width: 200px;
+  padding-bottom: 20px;
+  
+}
+.wrapper2{
+  text-align: center;
+ 
+}
+
+.banner-sm{
+  background-image: url(img/fat.jpg);
+  position: relative;
+  height: 600px;
+  object-fit:contain;
+  
+}
+.col-5{
+  position: relative;
+ 
+  }
+.self{
+  width:50%;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  border: #3a617e 10px solid;
+}
+.dev{
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+div.container-sm{
+  background-color: #f5f5f5;
+}
+
+.justify-content-left{
+  position: relative;
+  top:100px;
+  left: 300px;
+}
+.body{
+  background-color: #e9dfd4;
+}
+.card-title, .card-text{
+  text-align: center;
+ margin:10px;
+
+}
+
+tr:hover{
+  background-color: #d6dfe8 ;
+}
