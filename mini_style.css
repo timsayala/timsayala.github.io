@@ -177,6 +177,7 @@ div.container-sm{
   position: relative;
   top:100px;
   left: 200px;
+  text-shadow: 2px;
   
 }
 .body{
@@ -205,6 +206,6 @@ tr:hover{
 
 strong{
   font-size: larger;
-  letter-spacing: 3rem;
+  
   color: #e7f1ff;
 }
