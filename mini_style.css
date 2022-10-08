@@ -59,10 +59,11 @@ h1,.h1{
 
 
 .col-6{
-  padding-top: 40px;
+  padding-top: 20px;
   color:#4e4336;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: bold;
+  font-size: large;
 
 }
 
@@ -112,13 +113,16 @@ height: 200px;
 
 div.card{
   border: #5E503F 5px solid;
-  height: 500px;
+  height: 550px;
   text-align: center;
 }
 
 
 .card-course{
-  border: 1px rgb(143, 141, 141) solid;
+  border: 5px rgb(143, 141, 141) solid;
+  background-color: #e8dfd4;
+  border-radius: 20px;
+
 
   
 }
@@ -185,4 +189,15 @@ div.container-sm{
 
 tr:hover{
   background-color: #d6dfe8 ;
+}
+.courses{
+  background-color: #e7f1ff;
+}
+
+.logo1{
+  height: 100px;
+  width: 200px;
+  justify-content: center;
+  padding-left: 70px;
+  padding-top: 20px;
 }
