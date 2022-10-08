@@ -176,7 +176,8 @@ div.container-sm{
 .justify-content-left{
   position: relative;
   top:100px;
-  left: 300px;
+  left: 200px;
+  
 }
 .body{
   background-color: #e9dfd4;
@@ -200,4 +201,10 @@ tr:hover{
   justify-content: center;
   padding-left: 70px;
   padding-top: 20px;
+}
+
+strong{
+  font-size: larger;
+  letter-spacing: 3rem;
+  color: #e7f1ff;
 }
